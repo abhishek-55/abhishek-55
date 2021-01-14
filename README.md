@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate programmer Exploring and learning new Stuff.</h3>
 
+📚 Currently in 2nd year persuing  B.Tech Computer Science Engineering in ITER Bhubaneswar.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-55&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-55" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-55" alt="abhishek-55" /></a> </p>
