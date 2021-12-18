@@ -1,40 +1,65 @@
-<!--
-**abhishek-55/abhishek-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Abhishek !](https://frozen-thicket-43649.herokuapp.com/)
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ## Connect with me :
+<a href="https://www.linkedin.com/in/abhishek-kumar-linked/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/_abhishek__kr">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:abhishekbt2001@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://dev.to/abhishek55">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://instagram.com/abhishek_.555" target="_blank">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhishek_.555"  width="26px"  /></a>
+<br>
 
-<h2 align="center">Hey 👋, I'm Abhishek </h2>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhishe22210872" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhishe22210872" height="30" width="40" /></a>
-<a href="https://fb.com/abhishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abhishek" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishek_.555" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhishek_.555" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhishek-kumar-linked" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/abhishek-kumar-linked" height="30" width="40" /></a>
-</p>
-<h3 align="center">A passionate programmer Exploring and learning new Stuff.</h3>
+&nbsp;
 
-📚 Currently in 2nd year persuing  B.Tech Computer Science Engineering in ITER Bhubaneswar.
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-55&show_icons=true&locale=en&layout=compact" alt="abhishek-55" /></p>
+> ## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-55&show_icons=true&locale=en" alt="abhishek-55" /></p>
-
-- 🔭 I’m currently working on **Android Development**
-
-- 🌱 I’m currently learning **Android Studio**
-
-- 📫 How to reach me **abhishekbt2001@gmail.com**
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering from ITER, Siksha 'O' Anusandhan University </br>
+💻 I love to work on full stack web development & android development. <br>
+🎯  [Link](https://frozen-thicket-43649.herokuapp.com/) to my portfolio website. <br>
 
 
+&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+> ## My Experiences
+
+- [Postman Student Expert](https://api.badgr.io/public/assertions/M3im6LtGSzOcJchkbhzzzA?identity__email=abhishekbt2001%40gmail.com) - Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman. **_Check out my postman student badge_ [here](https://api.badgr.io/public/assertions/M3im6LtGSzOcJchkbhzzzA?identity__email=abhishekbt2001%40gmail.com)**
+- [Microsoft AZ-900](https://www.credly.com/badges/8fb484bc-dc3a-43fa-bc7e-c3bc2baca0b7/public_url) - Azure Fundamentals exam is an opportunity to prove knowledge of cloud concepts, Azure services, Azure workloads, security and privacy in Azure, as well as Azure pricing and support. Candidates should be familiar with the general technology concepts, including concepts of networking, storage, compute, application support, and application development. **_Checkout my certification_ [here](https://www.credly.com/badges/8fb484bc-dc3a-43fa-bc7e-c3bc2baca0b7/public_url)**
+- [FOSSASIA](https://github.com/fossasia/badge-magic-android/pull/765) - Contributed to badge-magic-android by adding 25 more cliparts and fix obsolete issue. **[#765](https://github.com/fossasia/badge-magic-android/pull/765)**
+- [Qwiklabs](https://www.qwiklabs.com/public_profiles/760d9308-8a5d-44a3-9114-0888463c1439) - Qwiklabs provides lab learning environments that help developers and IT professionals and students get hands-on experience working with leading cloud platforms and software. Completed Google Cloud Ready program and Learnt to earn program. **[Link](https://www.qwiklabs.com/public_profiles/760d9308-8a5d-44a3-9114-0888463c1439) _to my qwiklabs profile._** 
+- [Hackerrank](https://www.hackerrank.com/abhishekbt2001) - 5 ⭐  in java at HackerRank.
+- [Java (basic)](https://www.hackerrank.com/certificates/8a22e2880e02) - Awarded by HackerRank.
+
+&nbsp;
+
+> ## Projects
+
+- [ <img align="center" width="45px" src="https://raw.githubusercontent.com/abhishek-55/Vaccine-SlotChecker-Android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"/> Vaccine SlotChecker](https://github.com/abhishek-55/Vaccine-SlotChecker-Android) - An android app to check available Vaccination sessions by pin or by district using the public API provided by Co Win. It helps people to book slot and get vaccinated at their nearest vaccination centers
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-55&show_icons=true&hide_border=true&locale=en&layout=compact" alt="abhishek-55" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-55&show_icons=true&hide_border=true&locale=en" alt="abhishek-55" /></p>
+
+<br>
+
+> ## Tech I'm familiar with
+
+|     |     |
+| --- | --- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-003545?style=for-the-badge&logo=java&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  |  
+| **Frameworks** | ![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)  |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![android-studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![ipostman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Platforms** | ![google-cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![microsoft-azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+
